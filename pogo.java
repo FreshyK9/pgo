@@ -8,6 +8,10 @@ for (int i = 0; i < array.length; i++) {
                System.out.println(filterEvenIndexOddValue(1,2,3,4,5)
                );
                return array;
+
+
+
+
            }
        }
 
